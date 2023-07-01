@@ -1,5 +1,5 @@
 # Cardiovascular-disease-testing
-This is a simple cardiovascular disease detection procedure based on ECG signals, the program used is MATLAB, and the completed by Zhou Lingtao
+This is a simple cardiovascular disease detection procedure based on ECG signals, the program used is MATLAB, and completed by Zhou Lingtao
 
 How to use: Enter the code in the form of main (data, frequency) in the command line window
 For example:
